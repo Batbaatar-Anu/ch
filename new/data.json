@@ -1,0 +1,23 @@
+[
+    {
+        "username": "chimgee",
+        "password": "$2y$10$ct30B4tlnqgOIjLceHfTeO4SKDqZ8o1bgdEvmimpqzmgLk2GlOcvq",
+        "email": "chimgee@gmail.com",
+        "country": "Mongolia",
+        "age": "20"
+    },
+    {
+        "username": "anu",
+        "password": "$2y$10$gEanIhrmNkn6vcuCSNGnoO6y2YsEHcbs9sK6V8CMVESoZOEkJR5Om",
+        "email": "anu123@gmail.com",
+        "country": "Mongolia",
+        "age": "20"
+    },
+    {
+        "username": "marl",
+        "password": "$2y$10$FKAYhUdMqHC8xUpEqeysZuo6KKCBk\/jvR0yhA.zIkg3JcpotE2B.q",
+        "email": "a@gmail.com",
+        "country": "Mongolia",
+        "age": "6"
+    }
+]
